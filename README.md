@@ -1,9 +1,5 @@
 # A collection of `.gitignore` templates
 
-
-For more information about how `.gitignore` files work, and how to use them,
-the following resources are a great place to start:
-
 - The [Ignoring Files chapter][chapter] of the [Pro Git][progit] book.
 - The [Ignoring Files article][help] on the GitHub Help site.
 - The [gitignore(5)][man] manual page.
